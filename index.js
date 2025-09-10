@@ -1,4 +1,11 @@
 /**
+ * Instagram Clone - React Native Application
+ * 
+ * This code has been written by Aman Chaturvedi
+ * Main application entry point
+ * 
+ * Author: Aman Chaturvedi
+ * Email: aman.allacc@gmail.com
  * @format
  */
 

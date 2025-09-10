@@ -1,3 +1,13 @@
+/**
+ * Instagram Clone - React Native Application
+ * 
+ * This code has been written by Aman Chaturvedi
+ * Home stack navigation configuration
+ * 
+ * Author: Aman Chaturvedi
+ * Email: aman.allacc@gmail.com
+ */
+
 import React from 'react';
 import {createStackNavigator} from '@react-navigation/stack';
 import {useNavigation} from '@react-navigation/native';

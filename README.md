@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/rushik008/Instagram-Clone">
-    <img src="https://github.com/rushik008/Instagram-Clone/assets/101036053/d4d50f35-6608-4c99-a27b-cf5d6a84c001" alt="Instagram Logo" width="80px" height="80px">
+  <a href="https://github.com/aman.chaturvedi/Instagram-Clone">
+    <img src="https://github.com/aman.chaturvedi/Instagram-Clone/assets/101036053/d4d50f35-6608-4c99-a27b-cf5d6a84c001" alt="Instagram Logo" width="80px" height="80px">
   </a>
 
   <h3 align="center">Instagram Clone</h3>
@@ -13,7 +13,7 @@
   </p>
 </p>
 
-![Contributors](https://img.shields.io/github/contributors/rushik008/Instagram-Clone?color=dark-green) ![Issues](https://img.shields.io/github/issues/rushik008/Instagram-Clone) 
+![Contributors](https://img.shields.io/github/contributors/aman.chaturvedi/Instagram-Clone?color=dark-green) ![Issues](https://img.shields.io/github/issues/aman.chaturvedi/Instagram-Clone) 
 
 ## Table Of Contents
 
@@ -55,33 +55,33 @@ Instagram Clone is developed using React Native framework which is a powerful Ja
 <br/>
   <h3 align="center">Home Page</h3>
   <p align="center">
-<img src="https://github.com/rushik008/Instagram-Clone/assets/101036053/c27037b8-38c7-4139-bd66-0c556e2d6d56" alt="Home Page" width="400px" height="800px">
+<img src="https://github.com/aman.chaturvedi/Instagram-Clone/assets/101036053/c27037b8-38c7-4139-bd66-0c556e2d6d56" alt="Home Page" width="400px" height="800px">
   </p>
 <br/>
  
 
   <h3 align="center">Home Page</h3>
   <p align="center">
-<img src="https://github.com/rushik008/Instagram-Clone/assets/101036053/11985178-3594-4a53-baa2-e5e619be7caf" alt="Home Page" width="400px" height="800px">
+<img src="https://github.com/aman.chaturvedi/Instagram-Clone/assets/101036053/11985178-3594-4a53-baa2-e5e619be7caf" alt="Home Page" width="400px" height="800px">
   </p>
 <br/>
 
 
   <h3 align="center">Explore Page</h3>
   <p align="center">
-<img src="https://github.com/rushik008/Instagram-Clone/assets/101036053/8c024ca5-5294-4958-b1c7-c9067424b3b4" alt="Explore Page" width="400px" height="800px">
+<img src="https://github.com/aman.chaturvedi/Instagram-Clone/assets/101036053/8c024ca5-5294-4958-b1c7-c9067424b3b4" alt="Explore Page" width="400px" height="800px">
   </p>
 <br/>
 
 
   <h3 align="center">Profile Page</h3>
   <p align="center">
-<img src="https://github.com/rushik008/Instagram-Clone/assets/101036053/773755a3-2120-437b-989f-209dc09c4849" alt="Profile Page" width="400px" height="800px">
+<img src="https://github.com/aman.chaturvedi/Instagram-Clone/assets/101036053/773755a3-2120-437b-989f-209dc09c4849" alt="Profile Page" width="400px" height="800px">
   </p>
 <br/>
    
    
 ## Authors
 
-* **Rushik Rathod** - *Computer Science Student* - [Rushik Rathod](https://github.com/rushik008/) - *Developed Instagram Clone Front-end*
+* **Aman Chaturvedi** - *Computer Science Student* - [Aman Chaturvedi](https://github.com/aman.chaturvedi/) - *Developed Instagram Clone Front-end*
 

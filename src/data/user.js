@@ -1,6 +1,16 @@
+/**
+ * Instagram Clone - React Native Application
+ * 
+ * This code has been written by Aman Chaturvedi
+ * User data configuration
+ * 
+ * Author: Aman Chaturvedi
+ * Email: aman.allacc@gmail.com
+ */
+
 const userData = {
-  userName: 'rushik_rathod_',
-  name: 'Rushik Rathod',
+  userName: 'aman_chaturvedi_',
+  name: 'Aman Chaturvedi',
   userProfile:
     'https://1.bp.blogspot.com/-wZAVvRx-WaA/YTuyaYzAYdI/AAAAAAAAuVU/6l5J7qPXbLUEMJjbpAOWhRN6CpOr2wbTACLcBGAsYHQ/s1024/Best-Profile-Pic-For-Boys%2B%25289%2529.jpg',
   noPosts: 0,

@@ -1,3 +1,13 @@
+/**
+ * Instagram Clone - React Native Application
+ * 
+ * This code has been written by Aman Chaturvedi
+ * Profile stack navigation configuration
+ * 
+ * Author: Aman Chaturvedi
+ * Email: aman.allacc@gmail.com
+ */
+
 import React from 'react';
 import {Text, View} from 'react-native';
 import {createStackNavigator} from '@react-navigation/stack';
@@ -26,7 +36,7 @@ const ProfileStackScreen = () => {
             return (
               <View style={styles.container}>
                 <LockIcon name="lock" size={15} color="black" />
-                <Text style={styles.textStyle}>rushik_rathod_</Text>
+                <Text style={styles.textStyle}>aman_chaturvedi_</Text>
               </View>
             );
           },

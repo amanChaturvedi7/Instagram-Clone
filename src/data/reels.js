@@ -1,3 +1,13 @@
+/**
+ * Instagram Clone - React Native Application
+ * 
+ * This code has been written by Aman Chaturvedi
+ * Reels data configuration
+ * 
+ * Author: Aman Chaturvedi
+ * Email: aman.allacc@gmail.com
+ */
+
 export default [
   {
     reelsImage:

@@ -1,3 +1,13 @@
+/**
+ * Instagram Clone - React Native Application
+ * 
+ * This code has been written by Aman Chaturvedi
+ * Bottom tab navigation configuration
+ * 
+ * Author: Aman Chaturvedi
+ * Email: aman.allacc@gmail.com
+ */
+
 import React from 'react';
 import {createBottomTabNavigator} from '@react-navigation/bottom-tabs';
 

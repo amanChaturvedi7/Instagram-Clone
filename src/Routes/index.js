@@ -1,3 +1,13 @@
+/**
+ * Instagram Clone - React Native Application
+ * 
+ * This code has been written by Aman Chaturvedi
+ * Main navigation routing configuration
+ * 
+ * Author: Aman Chaturvedi
+ * Email: aman.allacc@gmail.com
+ */
+
 import React from 'react';
 import {createStackNavigator} from '@react-navigation/stack';
 import {NavigationContainer} from '@react-navigation/native';
@@ -77,7 +87,7 @@ export default RootStackScreen;
           name="Chat Stack"
           component={ChatScreen}
           options={{
-            headerTitle: 'rushik_rathod_',
+            headerTitle: 'aman_chaturvedi_',
             headerRight: () => {
               return (
                 // View for right aligned 2 icons of top bar

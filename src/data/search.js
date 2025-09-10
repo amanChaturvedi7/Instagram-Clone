@@ -1,3 +1,13 @@
+/**
+ * Instagram Clone - React Native Application
+ * 
+ * This code has been written by Aman Chaturvedi
+ * Search data configuration
+ * 
+ * Author: Aman Chaturvedi
+ * Email: aman.allacc@gmail.com
+ */
+
 const staticImage1 =
   'https://cdn.shopify.com/s/files/1/0062/8083/9232/products/iron-man-mark7_620x.jpg?v=1637227128';
 const staticImage2 =
