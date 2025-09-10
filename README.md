@@ -25,13 +25,10 @@
 
 ## About The Project
 
-Project Title: Instagram Clone - Front End<br/>
-Development Period: May - June 2022<br/>
-Company: Groovy Web LLP<br/>
-Location: Nadiad<br/>
+Project Title: Instagram Clone - Front End only<br/>
 
 Description:
-The Instagram Clone project was developed as a summer internship project at Groovy Web LLP during May and June 2022. The objective of the project was to create a front-end replica of the popular social media platform Instagram using the React Native framework.
+The Instagram Clone project was developed as a personal project. The objective of the project was to create a front-end replica of the popular social media platform Instagram using the React Native framework.
 
 Home Feed: The home feed displayed a stream of posts from the user's followers and the accounts they followed. The feed utilized an infinite scrolling mechanism to provide a seamless browsing experience.
 
@@ -39,13 +36,11 @@ Explore Page: The explore page featured a curated collection of posts and sugges
 
 User Profiles: Each user had a dedicated profile page displaying their profile picture, username, follower count, following count, and a grid of their posts. Users could also edit their profiles and update their information.
 
-The project served as an excellent opportunity for the interns to gain hands-on experience in building a complex mobile application using React Native. It provided them with valuable insights into front-end development practices, user interface design, and working within a team environment.
-
 Overall, the Instagram Clone project successfully emulated the core features and user experience of the Instagram application, providing users with a familiar and engaging platform for sharing and connecting with others on mobile devices.
 
 ## Built With
 
-Instagram Clone is developed using React Native framework which is a powerful JavaScript framework for building mobile applications that allow developers to create cross-platform applications with a single codebase. Leveraging the capabilities of React Native, the team at Groovy Web LLP aimed to replicate the core functionalities and user interface of Instagram on both iOS and Android platforms.
+Instagram Clone is developed using React Native framework which is a powerful JavaScript framework for building mobile applications that allow developers to create cross-platform applications with a single codebase.
 
 * [React Native](https://reactnative.dev/)
 
