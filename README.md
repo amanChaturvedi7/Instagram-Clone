@@ -83,4 +83,4 @@ Instagram Clone is developed using React Native framework which is a powerful Ja
    
 ## Authors
 
-* **Rushik Rathod** - *Computer Science Student* - [Rushik Rathod](https://github.com/rushik008/) - *Developed Instagram Clone Front-end*
+* **Aman Chaturvedi** - *UI Engineer*
