@@ -73,12 +73,6 @@ Instagram Clone is developed using React Native framework which is a powerful Ja
   </p>
 <br/>
 
-
-  <h3 align="center">Profile Page</h3>
-  <p align="center">
-<img src="https://github.com/rushik008/Instagram-Clone/assets/101036053/773755a3-2120-437b-989f-209dc09c4849" alt="Profile Page" width="400px" height="800px">
-  </p>
-<br/>
    
    
 ## Authors
